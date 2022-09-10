@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-26T23:55:10 GMT-04:00" name="Default suite" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="219">
+    <groups>
+    </groups>
+    <test started-at="2022-07-26T23:55:10 GMT-04:00" name="Default test" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="219">
+      <class name="DCTCFeb.TestMavenFeb.Hierarchy_of_annotations">
+        <test-method is-config="true" signature="Test_Before_Suite()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test_Before_Suite" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Before_Suite -->
+        <test-method is-config="true" signature="Test_Before_Test()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test_Before_Test" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Before_Test -->
+        <test-method is-config="true" signature="Test_Before_class()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test_Before_class" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Before_class -->
+        <test-method is-config="true" signature="Test_Before_Method()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test_Before_Method" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Before_Method -->
+        <test-method signature="Test2()[pri:-2, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test2" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="Test_After_Method()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test_After_Method" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_After_Method -->
+        <test-method is-config="true" signature="Test_Before_Method()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test_Before_Method" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Before_Method -->
+        <test-method signature="Test1()[pri:-1, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test1" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="Test_After_Method()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test_After_Method" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_After_Method -->
+        <test-method is-config="true" signature="Test_Before_Method()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test_Before_Method" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Before_Method -->
+        <test-method signature="Test1()[pri:-1, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test1" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="Test_After_Method()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test_After_Method" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_After_Method -->
+        <test-method is-config="true" signature="Test_Before_Method()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test_Before_Method" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Before_Method -->
+        <test-method signature="Test3()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test3" finished-at="2022-07-26T23:55:10 GMT-04:00" depends-on-methods="DCTCFeb.TestMavenFeb.Hierarchy_of_annotations.Test1, DCTCFeb.TestMavenFeb.Hierarchy_of_annotations.Test2" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="Test_After_Method()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test_After_Method" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_After_Method -->
+        <test-method is-config="true" signature="Test_After_class()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test_After_class" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_After_class -->
+        <test-method is-config="true" signature="Test_After_Test()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:10 GMT-04:00" name="Test_After_Test" finished-at="2022-07-26T23:55:10 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_After_Test -->
+        <test-method is-config="true" signature="Test_After_Suite()[pri:0, instance:DCTCFeb.TestMavenFeb.Hierarchy_of_annotations@31fa1761]" started-at="2022-07-26T23:55:11 GMT-04:00" name="Test_After_Suite" finished-at="2022-07-26T23:55:11 GMT-04:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_After_Suite -->
+      </class> <!-- DCTCFeb.TestMavenFeb.Hierarchy_of_annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
